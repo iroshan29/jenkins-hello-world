@@ -7,7 +7,7 @@ app.get('/listUsers', function (req, res) {
       console.log( data );
       res.end( data );
    });
-})
+});
 
 var server = app.listen(8081, function () {
 
