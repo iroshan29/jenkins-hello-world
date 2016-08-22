@@ -1,1 +1,0 @@
-# jenkins-hello-world
